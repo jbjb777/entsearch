@@ -1,0 +1,12 @@
+{
+  "name": "entry-search-proxy",
+  "version": "1.0.0",
+  "description": "Entry API Proxy for Vercel Serverless Function",
+  "main": "api/graphql.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
